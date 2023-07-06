@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DoanTheDev
-- 👀 I’m interested in coding,soccer, and food.
-- 🌱 I’m currently learning Python,CSS,HTML5,Javascript.
+- 👀 I’m interested in coding, cooking, and sleeping.
+- 🌱 I’m currently learning Javascript.
 - 📫 How to reach me tonyngdoan@gmail.com
 
 <!---
