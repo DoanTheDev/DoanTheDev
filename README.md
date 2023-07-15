@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @DoanTheDev
-- 👀 I’m interested in coding, cooking, and sleeping.
 - 🌱 I’m currently learning Javascript.
 - 📫 How to reach me tonyngdoan@gmail.com
 
