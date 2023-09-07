@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DoanTheDev
+
 - 🌱 I’m currently learning Javascript.
 - 📫 How to reach me tonyngdoan@gmail.com
 
