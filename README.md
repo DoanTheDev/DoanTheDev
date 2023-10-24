@@ -1,5 +1,5 @@
 
-- 🌱 I’m currently learning Javascript.
+- 🌱 I’m currently learning React and Typescript.
 - 📫 How to reach me tonyngdoan@gmail.com
 
 <!---
