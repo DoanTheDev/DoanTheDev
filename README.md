@@ -1,1 +1,1 @@
- 📫 How to reach me tonyngdoan@gmail.com
+ 📫 Reach me @tonyngdoan@gmail.com
